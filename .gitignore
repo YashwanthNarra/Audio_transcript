@@ -10,8 +10,8 @@ venv/
 # Temporary files
 temp/
 tmp/
-data/
-plan/
+data.py
+plan.md
 
 # Audio files
 *.mp3
