@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temporary files
+temp/
+tmp/
+data/
+plan/
+
+# Audio files
+*.mp3
+*.wav
+*.m4a
+*.mpeg
+*.ogg
+*.flac
+*.webm
+
+# IDE
+.vscode/
+.idea/
